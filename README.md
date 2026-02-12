@@ -41,6 +41,8 @@ PrimeTradeAI is a trading center application built with the PERN stack (PostgreS
 | `POST` | `/api/trading` | Add a new trading item | Yes (Admin) |
 | `PUT` | `/api/trading/:id` | Update a trading item | Yes (Admin) |
 | `DELETE` | `/api/trading/:id` | Delete a trading item | Yes (Admin) |
+### Postman Collection
+https://adamgoya0810-7332878.postman.co/workspace/Gowtham-S's-Workspace~83fdb84c-d539-4360-8664-8045dc4427e7/collection/48228800-46f55503-f7dd-4591-a3ff-42e718214db8?action=share&creator=48228800
 
 ## Database Schema
 

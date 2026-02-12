@@ -4,10 +4,10 @@
 PrimeTradeAI is a trading center application built with the PERN stack (PostgreSQL, Express, React, Node.js). It features user authentication, role-based access control (RBAC), and a dashboard to view trading items (Gold, Silver, Crypto, Oil) with historical data.
 
 ### 👤 User Login
-<img src="./screenshots/userview.png" width="600"/>
+<img src="./screenshots/login.png" width="600"/>
 
 ### 📈 Item View
-<img src="./screenshots/login.png" width="600"/>
+<img src="./screenshots/userview.png" width="600"/>
 
 
 ## Features Implemented

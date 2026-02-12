@@ -99,7 +99,7 @@ CREATE TABLE IF NOT EXISTS historical_prices (
 
 ### 1. Database Setup
 Ensure your PostgreSQL database is running. The application uses the following connection string by default:
-`DATABASE_URL="postgresql://postgres:0810@localhost:5432/Primer?schema=public"`
+`DATABASE_URL="postgresql://postgres:password@localhost:5432/database_name?schema=public"`
 
 To seed the database with initial users and data:
 ```bash

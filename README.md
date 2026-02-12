@@ -5,10 +5,10 @@ PrimeTradeAI is a trading center application built with the PERN stack (PostgreS
 
 ## UI
 ### 👤 User Login
-![User Login](./screenshots/user-dashboard.png)
+![User Login](./screenshots/userview.png)
 
 ### 📈 Item  View
-![Item view History](./screenshots/user-history.png)
+![Item view History](./screenshots/login.png)
 
 
 ## Features Implemented
